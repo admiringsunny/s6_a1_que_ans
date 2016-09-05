@@ -1,0 +1,28 @@
+a) What is menu. Write its importance.
+ 
+Menus are the additional options that are displayed by clicking menu button of mobile.
+It display those options that are not directly visible on the main UI of an application.
+It is used to save UI space of an Activity.
+---------------------------------------------
+b) What is options menu. When it is activated.
+
+• It is activated by clicking MENU key
+• The options menu is the primary collection of menu items for an activity.
+• For Android 2.3 or lower, users can reveal the options menu panel by pressing the Menu button.
+• On Android 3.0 and higher, items from the options menu are presented by the action bar as a combination of on-screen action items and overflow options.
+---------------------------------------------
+c) What is context menu. When it is activated.
+
+• It is a type of Menu that is displayed when the user taps and hold on any view or control.
+• It is used to perform some additional operation or action.
+• Different view can have different context menu or same  
+---------------------------------------------
+d) What is the alternative of ActionBarActivity as its deprecated. 
+
+A Popup Menu is a modal menu anchored to a View. It appears below the anchor view if there is room, or above the view otherwise.
+It's useful for:
+• Providing an overflow-style menu for actions that relate to specific content
+• Providing a second part of a command sentence (such as a button marked "Add" that produces a popup menu with different "Add" options).
+• Providing a drop-down similar to Spinner that does not retain a persistent selection
+---------------------------------------------
+
